@@ -1,15 +1,16 @@
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #e3f2fd, #ffffff);
+    background: linear-gradient(135deg, #fdf3e3, #3b0303);
     margin: 40px;
 }
 
 h1 {
-  color: #0072ce;
-}
-
-h1 {
-  text-align: center;
-  border-bottom: 3px solid #0072ce;
-  padding-bottom: 10px;
+    color: #0072ce;
+    text-align: center;
+    border-bottom: 3px solid #0072ce;
+    padding-bottom: 15px;
+    font-size: 32px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.15);
 }
